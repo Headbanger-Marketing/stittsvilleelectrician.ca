@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stittsvilleelectrician.ca/sitemap-index.xml
